@@ -8,4 +8,4 @@ In this project I compared three neural networks for classifying retinal disease
 
 ### Neural Networks Architecture
 
-![]() 
+![](models_blocks.jpg) 
