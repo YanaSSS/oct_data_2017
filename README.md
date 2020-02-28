@@ -8,7 +8,7 @@
 
 In this project I compared three neural networks for classifying retinal diseases. The data consists of more than 32 thousand optical coherence tomography (OCT) images of the retina separated equally in four classes across train/val/test datasets.
 
-The project is written in Jupyter Notebook. The whole process is exlained from the image processing to the training and testing of the models. I plan to further improve it:
+The project is written in Jupyter Notebook. The whole process is exlained from the image processing to the training and testing of the models. Further work:
 - test other image processing methods;
 - achieve lower training error on the best architecture;
 - improve explainability of the model by showing feature maps and possibly implementing Grad-CAM.
